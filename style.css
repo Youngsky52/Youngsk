@@ -78,7 +78,7 @@
 
 #loading{
     
-    background: black url(img/load2.gif);
+    background: #000000 url(img/load2.gif);
     
     background-repeat: no-repeat;
     background-position: center;
