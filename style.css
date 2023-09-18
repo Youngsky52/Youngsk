@@ -151,9 +151,9 @@ li a:hover{
 /* -----------presentation------------------ */
 
 .pre{
-    height: 550px;
-    background:url(img/presenta3.jpg)40% 80% fixed;
-    background-repeat: no-repeat;
+    height: 630px;
+    background:url(img/presenta3.jpg) fixed 80% 95%;
+    background-repeat: repeat;
     background-size: cover;
     width: 100%;
 }
@@ -161,7 +161,7 @@ li a:hover{
 .pre h1{
   
     color: #ff006a;
-    padding-top:250px;
+    padding-top:300px;
    font-size:6ch;
   font-family: 'serif';
 
@@ -172,7 +172,7 @@ i{
 }
 
 .secp1{
- 
+    
     height: auto;
    background-color: rgba(128, 128, 128, 0.381);
     background-repeat: no-repeat;
@@ -247,7 +247,7 @@ border-radius: 10%;
     background-color: rgba(184, 184, 184, 0.958);
    padding-top: 40px;
    padding-bottom: 40px;
-   
+   border-top: 2px #ff006a solid;
    
 }
 
@@ -332,6 +332,7 @@ img{
    padding-top: 40px;
    padding-bottom: 40px;
    width: 100%;
+   border-top: 2px #ff006a solid;
 }
 
 
