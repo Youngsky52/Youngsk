@@ -215,14 +215,17 @@ border-radius: 10%;
  @media (max-width: 600px){
      *{
         box-sizing: border-box;
-    
+         
+     }
+     section{
+        overflow: hidden;
      }
 
     ul li {
         display: block;
         margin: 12px;
     }
-    
+   
         
 
 };
